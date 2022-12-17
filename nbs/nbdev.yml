@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://t-edzuka.github.io/nbdev-hello"
+  description: "Hello world with nbdev nbdevのデモ検証用"
+  repo-branch: main
+  repo-url: "https://github.com/t-edzuka/nbdev-hello"
